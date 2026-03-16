@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm baicore
 
-<!--
-**baicore/baicore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer | Open Source Lover
 
-Here are some ideas to get you started:
+Welcome to my github profile!
+Here you’ll find my projects, experiments, and things I’m currently learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🔭 I’m currently working on my own ai agent
+- 🌱 I’m currently learning rust, python, go and typescript
+
+## 🛠️ Tech Stack
+
+### Languages
+![Languages](https://skillicons.dev/icons?i=rust,python,go,ts)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baicore&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baicore&layout=compact&theme=tokyonight)
+
+---
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=baicore&theme=tokyonight)
+
+---
+
+## 🧠 Currently Learning
+
+- Artificial Intelligence
+- System Design
+- Cloud & DevOps
