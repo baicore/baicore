@@ -13,7 +13,7 @@ Here you’ll find my projects, experiments, and things I’m currently learning
 ## 🛠️ Tech Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=rust,python,go,ts,java)
+![Languages](https://skillicons.dev/icons?i=java,cs,rust,python,typescript,php,html,js,css)
 
 ---
 
