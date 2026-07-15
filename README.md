@@ -7,8 +7,8 @@ Here you’ll find my projects, experiments, and things I’m currently learning
 
 ## About me
 
-- 🔭 I’m currently working on my own ai agent
-- 🌱 I’m currently learning rust, python, go and typescript
+- 🔭 I’m currently working on my first open source project
+- 🌱 I’m currently learning java and c#
 
 ## 🛠️ Tech Stack
 
